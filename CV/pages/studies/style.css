@@ -1,0 +1,38 @@
+.main
+{position:relative;}
+.ATM
+{   position:absolute;
+    width:50%;
+    height:800px;
+}
+.Bratianu
+{
+    position:absolute;
+    width:50%;
+    height:800px;
+    margin-left:50%;
+
+}
+.ATM>img{
+    width:100%;
+    height:600px;
+    border:5px solid black;
+}
+.Bratianu>img{
+    width:100%;
+    height:600px;
+    border:5px solid black;
+}
+.text{
+    position:relative;
+    width:100%;
+    height:200px;
+    border:5px black solid;
+    background-color:lightskyblue;
+}
+.text>p
+{
+    text-align:center;
+    text-decoration:dashed;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
